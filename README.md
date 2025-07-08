@@ -1,0 +1,1 @@
+This Python script uses Selenium to automate the Tinder login and swiping process. It opens Tinder in Chrome, logs in via Facebook by switching to the Facebook login window, enters user credentials, and returns to the Tinder window. After dismissing pop-ups, it loops 100 times, clicking the “Like” button, handling pop-ups like matches or loading delays.
