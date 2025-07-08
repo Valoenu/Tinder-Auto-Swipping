@@ -60,7 +60,7 @@ notification_pop_up = driver.find_element(By.XPATH, value='//*[@id="modal-manage
 notification_pop_up.click()
 
 # Cookie Privacy
-cookies = driver.find_element(By.XPATH, value="")
+cookies = driver.find_element(By.XPATH, value='//*[@id="content"]/div/div[2]/div/div/div[1]/button')
 cookies.click()
 
 
