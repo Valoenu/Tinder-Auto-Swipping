@@ -1,9 +1,6 @@
-TWITTER_EMAIL = 'your-twitter-email'
-TWITTER_PASSWORD = 'your-twitter
 
 Got it! Here’s a short and friendly `README.md` written from the perspective of a software development student sharing a personal automation project on GitHub:
 
----
 
 ```markdown
 # 📡 Internet Speed Twitter Bot
@@ -24,4 +21,8 @@ The idea is simple: this bot checks your internet speed using [Speedtest.net](ht
 - [Google Chrome](https://www.google.com/chrome/) installed
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/) (should match your Chrome version)
 - Python package: `selenium`
+
+TWITTER_EMAIL = 'your-twitter-email'
+TWITTER_PASSWORD = 'your-twitter
+
 
